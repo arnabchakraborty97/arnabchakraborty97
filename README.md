@@ -7,7 +7,7 @@
 - 💬 Ask me about Web Development, databases, competitive programming, machine learning or any other tech related stuff.
 - 📫 How to reach me: [LinkedIn - @arnabchakraborty](https://www.linkedin.com/in/arnabchakraborty/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I play strategy or RPG games.
+- ⚡ Fun fact: I play strategy and RPG games.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=arnabchakraborty97&&show_icons=true&theme=tokyonight">
