@@ -1,6 +1,6 @@
 ### Hi, I am Arnab Chakraborty 👋
 
-- 🔭 I’m currently working as an SDE at [AITS](https://ai-techsystems.com/) and developing [Cainvas](https://cainvas.ai-tech.systems).
+- 🔭 I’m currently working as SDE at [AITS](https://ai-techsystems.com/) and developing [Cainvas](https://cainvas.ai-tech.systems).
 - 🌱 I’m currently learning more about Django, Jupyterlab Extensions and animations on a webpage.
 - 🤔 I am also trying my hands on TensorFlow and exploring it in depth by trying out different models.
 - 👯 I am well versed in Laravel, ReactJS and NodeJS.
